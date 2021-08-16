@@ -1,0 +1,1 @@
+Number guessing game following automate the boring stuff (chapter 2)
